@@ -1,0 +1,13 @@
+D:\tms\dictionary\dictionary\bin\Debug\netcoreapp3.1\dictionary.exe
+D:\tms\dictionary\dictionary\bin\Debug\netcoreapp3.1\dictionary.deps.json
+D:\tms\dictionary\dictionary\bin\Debug\netcoreapp3.1\dictionary.runtimeconfig.json
+D:\tms\dictionary\dictionary\bin\Debug\netcoreapp3.1\dictionary.runtimeconfig.dev.json
+D:\tms\dictionary\dictionary\bin\Debug\netcoreapp3.1\dictionary.dll
+D:\tms\dictionary\dictionary\bin\Debug\netcoreapp3.1\dictionary.pdb
+D:\tms\dictionary\dictionary\obj\Debug\netcoreapp3.1\dictionary.csproj.AssemblyReference.cache
+D:\tms\dictionary\dictionary\obj\Debug\netcoreapp3.1\dictionary.AssemblyInfoInputs.cache
+D:\tms\dictionary\dictionary\obj\Debug\netcoreapp3.1\dictionary.AssemblyInfo.cs
+D:\tms\dictionary\dictionary\obj\Debug\netcoreapp3.1\dictionary.csproj.CoreCompileInputs.cache
+D:\tms\dictionary\dictionary\obj\Debug\netcoreapp3.1\dictionary.dll
+D:\tms\dictionary\dictionary\obj\Debug\netcoreapp3.1\dictionary.pdb
+D:\tms\dictionary\dictionary\obj\Debug\netcoreapp3.1\dictionary.genruntimeconfig.cache
