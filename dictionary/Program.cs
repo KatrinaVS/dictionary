@@ -9,14 +9,14 @@ namespace dictionary
         {
             Dictionary<int, string> dic = new Dictionary<int, string> ();
 
-            Console.WriteLine("Введите название рейса: \n");
+            Console.WriteLine("Введите название рейса: ");
             string s;
             for (int j = 0; j < i; j++)
             {
                 Console.Write("Рейс{0} - ", j);
                 s = Console.ReadLine();
                 dic.Add(j, s);
-                Console.Clear();
+               
             }
             return dic;
         }
@@ -36,7 +36,7 @@ namespace dictionary
                 foreach (int j in keys)
                     Console.WriteLine("Пересадка № {0} Город - {1}", j, dic[j]);
             }
-            catch (FormatException)
+            catch (FormatException) // обработка исключений
             {
                 Console.WriteLine("Ошибка");
             }
